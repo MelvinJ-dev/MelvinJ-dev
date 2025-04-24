@@ -1,16 +1,44 @@
-## Hi there 👋
+> whoami
+Melvin — Cybersecurity Enthusiast | GATE + NTRO Aspirant
+```
 
-<!--
-**MelvinJ-dev/MelvinJ-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔧 Tools I Use
+```
+[+] Nmap   [+] Burp Suite   [+] Ghidra   [+] Metasploit
+[+] Python [+] Bash         [+] Wireshark [+] Volatility
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚔️ Current Loadout
+- 🎯 Preparing for NTRO (Scientist-B & Analyst Roles)
+- 📚 GATE CSE 2026 Aspirant
+- 🛡️ TryHackMe, HTB, and CTFTime Regular
+- 🔐 Building Ethical Hacking Tools and OSINT Scripts
+
+---
+
+### 📁 Featured Repositories
+- 🔍 `PortScanner-Python`
+- 🔐 `File-Encryptor-AES`
+- 🕵️ `OSINT-Recon-Toolkit`
+- 🧪 `Malware-Analysis-Lab`
+
+---
+
+### 📜 Writeups & Notes
+- CTFs: PicoCTF | TryHackMe | HTB
+- Reverse Engineering: x64dbg + Ghidra
+- Blog: Coming soon…
+
+---
+
+### 📡 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github)](https://github.com)
+
+---
+
+> "I am root, but only in my lab."
